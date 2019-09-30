@@ -2,10 +2,7 @@
 module.exports = {
     url: 'https://devmountain-qa.github.io/Automation-Basics/build/',
     elements: {
-        // page: {
-        //     selector: '(//body)',
-        //     locateStrategy: 'xpath'
-        // },
+        
         input: {
             selector: '[name="evenOddInput"]'
         },
